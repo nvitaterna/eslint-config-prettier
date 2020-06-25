@@ -1,6 +1,6 @@
 {
   "name": "@nvitaterna/eslint-config-prettier",
-  "description": "Airbnb's ESLint config with some of my own tweaks and prettier integration.",
+  "description": "Airbnb's ESLint config with a couple small tweaks and prettier integration.",
   "version": "1.0.0",
   "main": "index.json",
   "license": "MIT",
@@ -30,5 +30,9 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "files": [
+    "index.json",
+    ".prettierrc.js"
+  ]
 }
