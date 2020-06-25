@@ -1,14 +1,14 @@
 {
-  "name": "@nvitaterna/eslint-prettier-config",
+  "name": "@nvitaterna/eslint-config-prettier",
   "description": "Airbnb's ESLint config with some of my own tweaks and prettier integration.",
   "version": "0.0.1",
   "main": "index.json",
   "license": "MIT",
-  "repository": "git@github.com:nvitaterna/eslint-prettier-config.git",
-  "homepage": "https://github.com/nvitaterna/eslint-prettier-config",
+  "repository": "git@github.com:nvitaterna/eslint-config-prettier.git",
+  "homepage": "https://github.com/nvitaterna/eslint-config-prettier",
   "bugs": {
     "email": "nvitaterna@gmail.com",
-    "url": "https://github.com/nvitaterna/eslint-prettier-config/issues"
+    "url": "https://github.com/nvitaterna/eslint-config-prettier/issues"
   },
   "peerDependencies": {
     "eslint": "^7.3.1",
