@@ -1,7 +1,7 @@
 {
   "name": "@nvitaterna/eslint-config-prettier",
   "description": "Airbnb's ESLint config with some of my own tweaks and prettier integration.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.json",
   "license": "MIT",
   "repository": "git@github.com:nvitaterna/eslint-config-prettier.git",
